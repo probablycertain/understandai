@@ -1,2 +1,2 @@
 # understandai
-Be Nothing.
+Personal notes to understand AI landscape
